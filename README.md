@@ -1,5 +1,13 @@
 ## android 常用颜色
 
+### 引用
+
+```
+compile 'tech.liujin:colors:1.0.0'
+```
+
+### 示例
+
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
