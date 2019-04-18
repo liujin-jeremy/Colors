@@ -3,6 +3,7 @@ package tech.threekilogram.colors;
 /**
  * @author Liujin 2019/3/27:11:52:58
  */
+@SuppressWarnings("WeakerAccess")
 public class Colors {
 
       public static final int white                = 0xffffffff;
