@@ -1,4 +1,4 @@
-package tech.threekilogram.colors;
+package tech.liujin.colors;
 
 /**
  * @author Liujin 2019/3/27:11:52:58

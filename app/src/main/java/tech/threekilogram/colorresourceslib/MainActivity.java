@@ -8,7 +8,7 @@ import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.ViewGroup.LayoutParams;
-import tech.threekilogram.colors.Colors;
+import tech.liujin.colors.Colors;
 
 public class MainActivity extends AppCompatActivity {
 
