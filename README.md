@@ -3,7 +3,7 @@
 ### 引用
 
 ```
-compile 'tech.liujin:colors:1.0.0'
+implementation 'tech.liujin:colors:1.0.2'
 ```
 
 ### 示例
