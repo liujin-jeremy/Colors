@@ -1,4 +1,4 @@
-package tech.threekilogram.colors;
+package tech.liujin.colorresourceslib;
 
 import static org.junit.Assert.assertEquals;
 

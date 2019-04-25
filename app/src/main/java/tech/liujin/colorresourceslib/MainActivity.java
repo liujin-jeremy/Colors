@@ -1,4 +1,4 @@
-package tech.threekilogram.colorresourceslib;
+package tech.liujin.colorresourceslib;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
